@@ -420,10 +420,10 @@
 .footer__social-list {
     display: flex;
     justify-content: end;
-    
+
 }
 
-.footer__social-list-item{
+.footer__social-list-item {
     display: flex;
     flex-direction: row;
     column-gap: 50px;
